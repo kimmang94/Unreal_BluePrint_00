@@ -704,3 +704,140 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.12-18.37.23:509][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2023.09.12-18.37.23:511][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.09.12-18.37.24:957][ 31]LogViewport: Scene viewport resized to 800x376, mode Windowed.
+[2023.09.12-18.38.15:666][396]LogViewport: Scene viewport resized to 801x376, mode Windowed.
+[2023.09.12-18.38.15:737][396]LogViewport: Scene viewport resized to 839x406, mode Windowed.
+[2023.09.12-18.38.15:798][396]LogViewport: Scene viewport resized to 994x485, mode Windowed.
+[2023.09.12-18.38.15:853][396]LogViewport: Scene viewport resized to 1112x526, mode Windowed.
+[2023.09.12-18.38.15:924][396]LogViewport: Scene viewport resized to 1173x552, mode Windowed.
+[2023.09.12-18.38.15:991][396]LogViewport: Scene viewport resized to 1241x598, mode Windowed.
+[2023.09.12-18.38.16:063][396]LogViewport: Scene viewport resized to 1288x622, mode Windowed.
+[2023.09.12-18.38.16:129][396]LogViewport: Scene viewport resized to 1301x622, mode Windowed.
+[2023.09.12-18.38.16:204][396]LogViewport: Scene viewport resized to 1379x622, mode Windowed.
+[2023.09.12-18.38.16:267][396]LogViewport: Scene viewport resized to 1424x619, mode Windowed.
+[2023.09.12-18.38.16:329][396]LogViewport: Scene viewport resized to 1425x619, mode Windowed.
+[2023.09.12-18.38.16:384][396]LogViewport: Scene viewport resized to 1425x618, mode Windowed.
+[2023.09.12-18.38.16:438][396]LogViewport: Scene viewport resized to 1425x617, mode Windowed.
+[2023.09.12-18.38.16:492][396]LogViewport: Scene viewport resized to 1425x811, mode Windowed.
+[2023.09.12-18.38.21:592][849]LogViewport: Scene viewport resized to 1426x811, mode Windowed.
+[2023.09.12-18.38.21:629][849]LogViewport: Scene viewport resized to 1436x811, mode Windowed.
+[2023.09.12-18.38.21:663][849]LogViewport: Scene viewport resized to 1449x811, mode Windowed.
+[2023.09.12-18.38.21:707][849]LogViewport: Scene viewport resized to 1469x811, mode Windowed.
+[2023.09.12-18.38.21:757][849]LogViewport: Scene viewport resized to 1495x811, mode Windowed.
+[2023.09.12-18.38.21:799][849]LogViewport: Scene viewport resized to 1498x811, mode Windowed.
+[2023.09.12-18.38.21:913][849]LogViewport: Scene viewport resized to 1499x811, mode Windowed.
+[2023.09.12-18.38.21:948][849]LogViewport: Scene viewport resized to 1502x811, mode Windowed.
+[2023.09.12-18.38.21:989][849]LogViewport: Scene viewport resized to 1505x811, mode Windowed.
+[2023.09.12-18.38.22:028][849]LogViewport: Scene viewport resized to 1506x811, mode Windowed.
+[2023.09.12-18.38.22:060][849]LogViewport: Scene viewport resized to 1507x811, mode Windowed.
+[2023.09.12-18.38.22:198][849]LogViewport: Scene viewport resized to 1508x811, mode Windowed.
+[2023.09.12-18.38.24:498][ 97]LogViewport: Scene viewport resized to 1508x822, mode Windowed.
+[2023.09.12-18.38.24:524][ 99]LogViewport: Scene viewport resized to 1508x842, mode Windowed.
+[2023.09.12-18.38.24:550][101]LogViewport: Scene viewport resized to 1508x878, mode Windowed.
+[2023.09.12-18.38.24:578][103]LogViewport: Scene viewport resized to 1508x918, mode Windowed.
+[2023.09.12-18.38.24:618][105]LogViewport: Scene viewport resized to 1508x952, mode Windowed.
+[2023.09.12-18.38.24:653][107]LogViewport: Scene viewport resized to 1508x972, mode Windowed.
+[2023.09.12-18.38.24:691][109]LogViewport: Scene viewport resized to 1508x979, mode Windowed.
+[2023.09.12-18.38.24:726][111]LogViewport: Scene viewport resized to 1508x982, mode Windowed.
+[2023.09.12-18.38.37:937][666]LogSlate: Window 'BluePrintStudy - Unreal Editor' being destroyed
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Tools
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingQuality
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingDensity
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingResolution
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Select
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AddQuickMenu
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.ModesToolBar
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AssetsToolBar
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.PlayToolBar
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.User
+[2023.09.12-18.38.38:021][666]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SettingsToolbar
+[2023.09.12-18.38.38:025][666]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.09.12-18.38.38:031][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.12-18.38.38:034][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.12-18.38.38:037][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.12-18.38.38:039][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.12-18.38.38:054][666]LogToolMenus: Warning: Menu already registered : LevelEditor.StatusBar.ToolBar.CompileComboButton
+[2023.09.12-18.38.38:078][666]LogViewport: Scene viewport resized to 3236x815, mode Windowed.
+[2023.09.12-18.38.39:015][729]LogViewport: Scene viewport resized to 800x376, mode Windowed.
+[2023.09.12-18.38.41:864][902]LogViewport: Scene viewport resized to 800x377, mode Windowed.
+[2023.09.12-18.38.41:901][902]LogViewport: Scene viewport resized to 827x418, mode Windowed.
+[2023.09.12-18.38.41:945][902]LogViewport: Scene viewport resized to 931x528, mode Windowed.
+[2023.09.12-18.38.41:985][902]LogViewport: Scene viewport resized to 1124x693, mode Windowed.
+[2023.09.12-18.38.42:035][902]LogViewport: Scene viewport resized to 1283x808, mode Windowed.
+[2023.09.12-18.38.42:080][902]LogViewport: Scene viewport resized to 1319x808, mode Windowed.
+[2023.09.12-18.38.42:117][902]LogViewport: Scene viewport resized to 1324x808, mode Windowed.
+[2023.09.12-18.38.42:160][902]LogViewport: Scene viewport resized to 1335x808, mode Windowed.
+[2023.09.12-18.38.42:213][902]LogViewport: Scene viewport resized to 1347x808, mode Windowed.
+[2023.09.12-18.38.42:251][902]LogViewport: Scene viewport resized to 1356x808, mode Windowed.
+[2023.09.12-18.38.42:306][902]LogViewport: Scene viewport resized to 1365x806, mode Windowed.
+[2023.09.12-18.38.42:352][902]LogViewport: Scene viewport resized to 1375x802, mode Windowed.
+[2023.09.12-18.38.42:388][902]LogViewport: Scene viewport resized to 1379x802, mode Windowed.
+[2023.09.12-18.38.42:436][902]LogViewport: Scene viewport resized to 1380x802, mode Windowed.
+[2023.09.12-18.38.42:486][902]LogViewport: Scene viewport resized to 1383x802, mode Windowed.
+[2023.09.12-18.38.42:527][902]LogViewport: Scene viewport resized to 1400x800, mode Windowed.
+[2023.09.12-18.38.42:581][902]LogViewport: Scene viewport resized to 1412x797, mode Windowed.
+[2023.09.12-18.38.42:639][902]LogViewport: Scene viewport resized to 1434x794, mode Windowed.
+[2023.09.12-18.38.42:678][902]LogViewport: Scene viewport resized to 1437x794, mode Windowed.
+[2023.09.12-18.38.42:869][902]LogViewport: Scene viewport resized to 1438x794, mode Windowed.
+[2023.09.12-18.38.42:918][902]LogViewport: Scene viewport resized to 1441x795, mode Windowed.
+[2023.09.12-18.38.42:957][902]LogViewport: Scene viewport resized to 1445x797, mode Windowed.
+[2023.09.12-18.38.43:006][902]LogViewport: Scene viewport resized to 1450x800, mode Windowed.
+[2023.09.12-18.38.43:056][902]LogViewport: Scene viewport resized to 1455x802, mode Windowed.
+[2023.09.12-18.38.43:109][902]LogViewport: Scene viewport resized to 1456x803, mode Windowed.
+[2023.09.12-18.38.43:170][902]LogViewport: Scene viewport resized to 1457x804, mode Windowed.
+[2023.09.12-18.38.43:274][902]LogViewport: Scene viewport resized to 1457x811, mode Windowed.
+[2023.09.12-18.39.06:234][318]LogSlate: Window 'New Level' being destroyed
+[2023.09.12-18.39.06:240][318]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.12-18.39.06:241][318]LightingResults: New page: Lighting Build
+[2023.09.12-18.39.06:241][318]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.09.12-18.39.06:262][318]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.09.12-18.39.06:263][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.12-18.39.06:264][318]MapCheck: New page: Map Check
+[2023.09.12-18.39.06:264][318]LightingResults: New page: Lighting Build
+[2023.09.12-18.39.06:269][318]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.12-18.39.06:283][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.09.12-18.39.06:295][318]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2023.09.12-18.39.06:295][318]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.12-18.39.06:295][318]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.12-18.39.06:296][318]LogAIModule: Creating AISystem for world Untitled_2
+[2023.09.12-18.39.06:297][318]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.12-18.39.06:303][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.09.12-18.39.06:303][318]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.12-18.39.06:303][318]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2023.09.12-18.39.06:303][318]LogFileHelpers: Loading map 'Template_Default' took 0.062
+[2023.09.12-18.39.15:205][325]LogSlate: Took 0.000906 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.12-18.39.17:374][586]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.888 and deleted 9012 file(s) with total size 513 MiB.
+[2023.09.12-18.39.34:475][976]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.12-18.39.34:483][976]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.12-18.39.34:508][978]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.12-18.39.36:013][150]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2023.09.12-18.39.36:013][150]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.12-18.39.46:843][929]LogSlate: Window 'Save Level As' being destroyed
+[2023.09.12-18.39.46:888][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.12-18.39.46:895][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.09.12-18.39.46:899][929]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003159 seconds
+[2023.09.12-18.39.46:907][929]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2023.09.12-18.39.46:907][929]LogSavePackage: Moving 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/DevMap56E7DAE64BBED7DC5C721680F02D2AB7.tmp' to 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap'
+[2023.09.12-18.39.46:913][929]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/DevMap_BuiltData
+[2023.09.12-18.39.46:913][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap_BuiltData" FILE="D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap_BuiltData.uasset" SILENT=true
+[2023.09.12-18.39.46:916][929]LogSavePackage: Moving output files for package: /Game/Maps/DevMap_BuiltData
+[2023.09.12-18.39.46:916][929]LogSavePackage: Moving 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/DevMap_BuiltDataE77A09E64939605266D74286004A99D7.tmp' to 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap_BuiltData.uasset'
+[2023.09.12-18.39.46:917][929]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/DevMap_BuiltData
+[2023.09.12-18.39.46:924][929]LogFileHelpers: Saving map 'DevMap' took 0.073
+[2023.09.12-18.39.46:926][929]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.12-18.39.46:926][929]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2023.09.12-18.39.46:926][929]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DevMap_BuiltData.DevMap_BuiltData
+[2023.09.12-18.39.55:434][925]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/DevMap.DevMap:PersistentLevel.DevMap
+[2023.09.12-18.39.55:436][925]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.12-18.39.56:179][925]LogSlate: Took 0.002803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
