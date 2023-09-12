@@ -841,3 +841,163 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.12-18.39.55:434][925]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/DevMap.DevMap:PersistentLevel.DevMap
 [2023.09.12-18.39.55:436][925]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.09.12-18.39.56:179][925]LogSlate: Took 0.002803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.09.12-18.41.42:672][507]BlueprintLog: New page: Compile DevMap
+[2023.09.12-18.41.42:708][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.09.12-18.41.43:209][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.12-18.41.43:224][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.09.12-18.41.43:230][564]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2023.09.12-18.41.43:232][564]LogSavePackage: Moving 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/DevMap87D8EECE42F953A0D58DBA941B15B9C4.tmp' to 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap'
+[2023.09.12-18.41.43:235][564]LogFileHelpers: No new changes to save!
+[2023.09.12-18.41.43:235][564]LogFileHelpers: Saving map 'DevMap' took 0.028
+[2023.09.12-18.41.43:246][564]AssetCheck: New page: Asset Save: DevMap
+[2023.09.12-18.41.43:246][564]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2023.09.12-18.41.50:932][463]LogSlate: Took 0.006140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.09.12-18.43.06:043][430]BlueprintLog: New page: Compile DevMap
+[2023.09.12-18.43.06:086][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.09.12-18.43.06:592][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.12-18.43.06:611][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.09.12-18.43.06:616][485]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2023.09.12-18.43.06:616][485]LogSavePackage: Moving 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/DevMapC43C74CF4877DC3E8F5D8DAFBAFD8677.tmp' to 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap'
+[2023.09.12-18.43.06:621][485]LogFileHelpers: No new changes to save!
+[2023.09.12-18.43.06:621][485]LogFileHelpers: Saving map 'DevMap' took 0.030
+[2023.09.12-18.43.06:630][485]AssetCheck: New page: Asset Save: DevMap
+[2023.09.12-18.43.06:630][485]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2023.09.12-18.44.22:555][489]BlueprintLog: New page: Compile DevMap
+[2023.09.12-18.44.22:584][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.09.12-18.44.23:198][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.12-18.44.23:215][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.09.12-18.44.23:222][555]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2023.09.12-18.44.23:222][555]LogSavePackage: Moving 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/DevMap324E1AB3451ABED86BA6D4A0397ABCEE.tmp' to 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap'
+[2023.09.12-18.44.23:226][555]LogFileHelpers: No new changes to save!
+[2023.09.12-18.44.23:226][555]LogFileHelpers: Saving map 'DevMap' took 0.029
+[2023.09.12-18.44.23:236][555]AssetCheck: New page: Asset Save: DevMap
+[2023.09.12-18.44.23:236][555]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2023.09.12-18.44.47:093][393]BlueprintLog: New page: Compile DevMap
+[2023.09.12-18.44.47:134][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.09.12-18.44.47:580][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.12-18.44.47:598][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.09.12-18.44.47:604][440]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2023.09.12-18.44.47:605][440]LogSavePackage: Moving 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/DevMap0D4DE33E4707CC6FD816F9A0EF3208F7.tmp' to 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap'
+[2023.09.12-18.44.47:609][440]LogFileHelpers: No new changes to save!
+[2023.09.12-18.44.47:609][440]LogFileHelpers: Saving map 'DevMap' took 0.029
+[2023.09.12-18.44.47:617][440]AssetCheck: New page: Asset Save: DevMap
+[2023.09.12-18.44.47:617][440]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2023.09.12-18.47.00:701][ 72]BlueprintLog: New page: Compile DevMap
+[2023.09.12-18.47.00:730][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.09.12-18.47.01:223][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.12-18.47.01:239][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.09.12-18.47.01:290][127]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2023.09.12-18.47.01:291][127]LogSavePackage: Moving 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/DevMapFFEA5D13483D23B15A10559F6D8871C7.tmp' to 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap'
+[2023.09.12-18.47.01:295][127]LogFileHelpers: No new changes to save!
+[2023.09.12-18.47.01:295][127]LogFileHelpers: Saving map 'DevMap' took 0.073
+[2023.09.12-18.47.01:305][127]AssetCheck: New page: Asset Save: DevMap
+[2023.09.12-18.47.01:305][127]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2023.09.12-18.47.02:795][291]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.12-18.47.02:801][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.12-18.47.02:801][291]PIE: New page: PIE session: DevMap (Sep 13, 2023, 12:47:02 PM)
+[2023.09.12-18.47.02:804][291]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.09.12-18.47.02:804][291]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.09.12-18.47.02:805][291]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2023.09.12-18.47.02:807][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002015s)
+[2023.09.12-18.47.02:807][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.002185s)
+[2023.09.12-18.47.02:807][291]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.12-18.47.02:807][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.12-18.47.02:808][291]LogAIModule: Creating AISystem for world DevMap
+[2023.09.12-18.47.02:808][291]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2023.09.12-18.47.02:826][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.09.12-18.47.02:828][291]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.09.12-18.47.02:828][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.12-18.47.02:828][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.12-18.47.02:828][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.12-18.47.02:828][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.12-18.47.02:828][291]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.12-18.47.02:828][291]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.12-18.47.02:828][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.12-18.47.02:828][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.12-18.47.02:828][291]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.12-18.47.02:828][291]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.12-18.47.02:828][291]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.12-18.47.02:831][291]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.12-18.47.02:892][291]LogAudioMixer: Display: Using Audio Hardware Device 헤드폰 (K3000)
+[2023.09.12-18.47.02:892][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.12-18.47.02:892][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.12-18.47.02:892][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.12-18.47.02:893][291]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.09.12-18.47.02:893][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.09.12-18.47.02:894][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.09.12-18.47.02:894][291]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.09.12-18.47.02:894][291]LogInit: FAudioDevice initialized.
+[2023.09.12-18.47.02:894][291]LogAudio: Display: Audio Device (ID: 2) registered with world 'DevMap'.
+[2023.09.12-18.47.02:919][291]LogLoad: Game class is 'GameModeBase'
+[2023.09.12-18.47.02:920][291]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2023.09.13-03.47.02
+[2023.09.12-18.47.02:921][291]LogWorld: Bringing up level for play took: 0.001721
+[2023.09.12-18.47.02:923][291]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2023.09.12-18.47.02:944][291]LogBlueprintUserMessages: [DevMap_C_4] 100
+[2023.09.12-18.47.02:945][291]PIE: Server logged in
+[2023.09.12-18.47.02:946][291]PIE: Play in editor total start time 0.147 seconds.
+[2023.09.12-18.47.07:231][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.12-18.47.07:232][573]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DevMap
+[2023.09.12-18.47.07:232][573]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.12-18.47.07:232][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.12-18.47.07:244][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.12-18.47.07:247][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.12-18.47.07:266][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.12-18.47.07:268][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.09.12-18.47.07:269][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.09.12-18.47.07:282][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.09.12-18.47.07:302][574]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.09.12-18.52.00:866][135]BlueprintLog: New page: Compile DevMap
+[2023.09.12-18.52.00:908][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.09.12-18.52.01:345][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.12-18.52.01:366][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.09.12-18.52.01:376][180]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2023.09.12-18.52.01:376][180]LogSavePackage: Moving 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/DevMap637D922C42AEBFAECC7E34A874CC0CCA.tmp' to 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap'
+[2023.09.12-18.52.01:380][180]LogFileHelpers: No new changes to save!
+[2023.09.12-18.52.01:380][180]LogFileHelpers: Saving map 'DevMap' took 0.035
+[2023.09.12-18.52.01:389][180]AssetCheck: New page: Asset Save: DevMap
+[2023.09.12-18.52.01:389][180]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2023.09.12-18.52.15:000][802]BlueprintLog: New page: Compile DevMap
+[2023.09.12-18.52.15:036][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.09.12-18.52.16:296][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.12-18.52.16:317][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.09.12-18.52.16:325][946]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2023.09.12-18.52.16:325][946]LogSavePackage: Moving 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/DevMap47DC9285403A07BEADFFE084DB568DC0.tmp' to 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap'
+[2023.09.12-18.52.16:341][946]LogFileHelpers: No new changes to save!
+[2023.09.12-18.52.16:341][946]LogFileHelpers: Saving map 'DevMap' took 0.046
+[2023.09.12-18.52.16:351][946]AssetCheck: New page: Asset Save: DevMap
+[2023.09.12-18.52.16:351][946]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2023.09.12-19.10.40:277][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.12-19.10.40:511][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/Autosaves/Game/Maps/DevMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.09.12-19.10.40:519][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/DevMap_Auto1
+[2023.09.12-19.10.40:519][125]LogSavePackage: Moving 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/DevMap_Auto14C1BBA0A4F242F8B1BCA6B8F5669B7A4.tmp' to 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/Autosaves/Game/Maps/DevMap_Auto1.umap'
+[2023.09.12-19.10.40:525][125]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DevMap' took 0.274
+[2023.09.12-19.10.40:525][125]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.274
+[2023.09.12-19.16.30:651][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.12-19.16.30:675][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.09.12-19.16.30:683][260]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2023.09.12-19.16.30:684][260]LogSavePackage: Moving 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/DevMapAA621D0A49DFC11D3B7F6EB9F44331C8.tmp' to 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap'
+[2023.09.12-19.16.30:688][260]LogFileHelpers: No new changes to save!
+[2023.09.12-19.16.30:688][260]LogFileHelpers: Saving map 'DevMap' took 0.037
+[2023.09.12-19.16.30:702][260]AssetCheck: New page: Asset Save: DevMap
+[2023.09.12-19.16.30:702][260]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2023.09.12-19.39.10:877][450]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.207 and deleted 0 file(s) with total size 0 MiB.
+[2023.09.12-19.47.52:504][314]BlueprintLog: New page: Compile DevMap
+[2023.09.12-19.47.52:539][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.09.12-19.47.53:053][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.12-19.47.53:073][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.09.12-19.47.53:081][370]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2023.09.12-19.47.53:081][370]LogSavePackage: Moving 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/DevMap5634CBFB443B16BC0EBE018C3CF39DB2.tmp' to 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap'
+[2023.09.12-19.47.53:095][370]LogFileHelpers: No new changes to save!
+[2023.09.12-19.47.53:095][370]LogFileHelpers: Saving map 'DevMap' took 0.043
+[2023.09.12-19.47.53:106][370]AssetCheck: New page: Asset Save: DevMap
+[2023.09.12-19.47.53:106][370]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2023.09.12-19.49.44:039][444]BlueprintLog: New page: Compile DevMap
+[2023.09.12-19.49.44:074][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.09.12-19.49.44:560][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.12-19.49.44:580][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.09.12-19.49.44:590][495]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2023.09.12-19.49.44:591][495]LogSavePackage: Moving 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Saved/DevMapF0BA925E4A4A8759A73E60894F4A47A2.tmp' to 'D:/Project/Unreal_BluePrint_00/BluePrintStudy/Content/Maps/DevMap.umap'
+[2023.09.12-19.49.44:604][495]LogFileHelpers: No new changes to save!
+[2023.09.12-19.49.44:604][495]LogFileHelpers: Saving map 'DevMap' took 0.044
+[2023.09.12-19.49.44:614][495]AssetCheck: New page: Asset Save: DevMap
+[2023.09.12-19.49.44:614][495]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
