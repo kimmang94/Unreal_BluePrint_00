@@ -729,3 +729,528 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.04.15-04.50.15:700][269]LogViewport: Scene viewport resized to 1561x774, mode Windowed.
 [2024.04.15-04.50.15:751][269]LogViewport: Scene viewport resized to 1570x774, mode Windowed.
 [2024.04.15-04.50.15:792][269]LogViewport: Scene viewport resized to 1571x774, mode Windowed.
+[2024.04.15-04.53.35:824][285]LogSlate: Window 'BluePrintStudy - Unreal Editor' being destroyed
+[2024.04.15-04.53.35:909][285]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2024.04.15-04.53.35:909][285]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2024.04.15-04.53.35:909][285]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2024.04.15-04.53.35:909][285]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2024.04.15-04.53.35:909][285]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2024.04.15-04.53.35:909][285]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Tools
+[2024.04.15-04.53.35:909][285]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build
+[2024.04.15-04.53.35:909][285]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingQuality
+[2024.04.15-04.53.35:909][285]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingDensity
+[2024.04.15-04.53.35:909][285]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingResolution
+[2024.04.15-04.53.35:910][285]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo
+[2024.04.15-04.53.35:910][285]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Select
+[2024.04.15-04.53.35:910][285]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2024.04.15-04.53.35:910][285]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2024.04.15-04.53.35:910][285]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2024.04.15-04.53.35:910][285]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AddQuickMenu
+[2024.04.15-04.53.35:910][285]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.ModesToolBar
+[2024.04.15-04.53.35:910][285]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AssetsToolBar
+[2024.04.15-04.53.35:910][285]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.PlayToolBar
+[2024.04.15-04.53.35:910][285]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.User
+[2024.04.15-04.53.35:910][285]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SettingsToolbar
+[2024.04.15-04.53.35:914][285]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.04.15-04.53.35:918][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-04.53.35:921][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-04.53.35:924][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-04.53.35:927][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-04.53.35:940][285]LogToolMenus: Warning: Menu already registered : LevelEditor.StatusBar.ToolBar.CompileComboButton
+[2024.04.15-04.53.35:998][285]LogViewport: Scene viewport resized to 894x774, mode Windowed.
+[2024.04.15-04.53.37:575][431]LogViewport: Scene viewport resized to 895x774, mode Windowed.
+[2024.04.15-04.53.37:620][431]LogViewport: Scene viewport resized to 941x774, mode Windowed.
+[2024.04.15-04.53.37:662][431]LogViewport: Scene viewport resized to 1040x774, mode Windowed.
+[2024.04.15-04.53.37:716][431]LogViewport: Scene viewport resized to 1195x774, mode Windowed.
+[2024.04.15-04.53.37:762][431]LogViewport: Scene viewport resized to 1269x774, mode Windowed.
+[2024.04.15-04.53.37:799][431]LogViewport: Scene viewport resized to 1280x774, mode Windowed.
+[2024.04.15-04.53.39:377][565]LogViewport: Scene viewport resized to 1285x774, mode Windowed.
+[2024.04.15-04.53.39:418][565]LogViewport: Scene viewport resized to 1317x774, mode Windowed.
+[2024.04.15-04.53.39:460][565]LogViewport: Scene viewport resized to 1369x774, mode Windowed.
+[2024.04.15-04.53.39:506][565]LogViewport: Scene viewport resized to 1425x774, mode Windowed.
+[2024.04.15-04.53.39:551][565]LogViewport: Scene viewport resized to 1463x774, mode Windowed.
+[2024.04.15-04.53.39:593][565]LogViewport: Scene viewport resized to 1487x774, mode Windowed.
+[2024.04.15-04.53.39:631][565]LogViewport: Scene viewport resized to 1491x774, mode Windowed.
+[2024.04.15-04.53.39:664][565]LogViewport: Scene viewport resized to 1492x774, mode Windowed.
+[2024.04.15-04.53.39:856][565]LogViewport: Scene viewport resized to 1493x774, mode Windowed.
+[2024.04.15-04.53.39:966][565]LogViewport: Scene viewport resized to 1494x774, mode Windowed.
+[2024.04.15-04.53.40:003][565]LogViewport: Scene viewport resized to 1497x774, mode Windowed.
+[2024.04.15-04.53.40:043][565]LogViewport: Scene viewport resized to 1503x774, mode Windowed.
+[2024.04.15-04.53.40:081][565]LogViewport: Scene viewport resized to 1505x774, mode Windowed.
+[2024.04.15-04.53.40:120][565]LogViewport: Scene viewport resized to 1506x774, mode Windowed.
+[2024.04.15-04.53.41:399][694]LogViewport: Scene viewport resized to 1506x775, mode Windowed.
+[2024.04.15-04.53.41:437][694]LogViewport: Scene viewport resized to 1506x781, mode Windowed.
+[2024.04.15-04.53.41:476][694]LogViewport: Scene viewport resized to 1506x785, mode Windowed.
+[2024.04.15-04.53.41:517][694]LogViewport: Scene viewport resized to 1506x791, mode Windowed.
+[2024.04.15-04.53.41:553][694]LogViewport: Scene viewport resized to 1506x796, mode Windowed.
+[2024.04.15-04.53.41:591][694]LogViewport: Scene viewport resized to 1506x800, mode Windowed.
+[2024.04.15-04.53.41:746][694]LogViewport: Scene viewport resized to 1506x801, mode Windowed.
+[2024.04.15-04.53.41:783][694]LogViewport: Scene viewport resized to 1506x802, mode Windowed.
+[2024.04.15-04.53.57:531][409]LogSlate: Window 'New Level' being destroyed
+[2024.04.15-04.53.57:551][409]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.15-04.53.57:556][409]LightingResults: New page: Lighting Build
+[2024.04.15-04.53.57:556][409]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.04.15-04.53.57:578][409]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-04.53.57:578][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-04.53.57:578][409]MapCheck: New page: Map Check
+[2024.04.15-04.53.57:578][409]LightingResults: New page: Lighting Build
+[2024.04.15-04.53.57:583][409]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-04.53.57:596][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.15-04.53.57:616][409]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2024.04.15-04.53.57:616][409]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.15-04.53.57:616][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-04.53.57:617][409]LogAIModule: Creating AISystem for world Untitled_2
+[2024.04.15-04.53.57:619][409]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.15-04.53.57:624][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.04.15-04.53.57:624][409]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.15-04.53.57:624][409]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2024.04.15-04.53.57:624][409]LogFileHelpers: Loading map 'Template_Default' took 0.073
+[2024.04.15-04.54.21:467][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.13ms
+[2024.04.15-04.54.21:523][ 64]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/DevMap.DevMap
+[2024.04.15-04.54.21:523][ 64]Cmd: MAP LOAD FILE="D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.15-04.54.21:524][ 64]LightingResults: New page: Lighting Build
+[2024.04.15-04.54.21:524][ 64]LoadErrors: New page: Loading map: DevMap.umap
+[2024.04.15-04.54.21:546][ 64]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-04.54.21:546][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-04.54.21:546][ 64]MapCheck: New page: Map Check
+[2024.04.15-04.54.21:546][ 64]LightingResults: New page: Lighting Build
+[2024.04.15-04.54.21:553][ 64]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-04.54.21:554][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.04.15-04.54.21:554][ 64]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-04.54.21:555][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-04.54.21:562][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.15-04.54.21:566][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.15-04.54.21:571][ 64]LogAudio: Display: Audio Device (ID: 1) registered with world 'DevMap'.
+[2024.04.15-04.54.21:571][ 64]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.15-04.54.21:571][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-04.54.21:571][ 64]LogAIModule: Creating AISystem for world DevMap
+[2024.04.15-04.54.21:572][ 64]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.15-04.54.21:578][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.04.15-04.54.21:593][ 64]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.15-04.54.21:593][ 64]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2024.04.15-04.54.21:593][ 64]LogFileHelpers: Loading map 'DevMap' took 0.070
+[2024.04.15-04.54.42:341][290]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/DevMap.DevMap:PersistentLevel.DevMap
+[2024.04.15-04.54.42:342][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-04.54.43:455][290]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.15-04.55.14:346][815]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Maps/DevMap.DevMap:PersistentLevel.DevMap without an associated node. The blueprint breakpoint has been removed
+[2024.04.15-04.55.14:346][815]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Maps/DevMap.DevMap:PersistentLevel.DevMap without an associated node. The blueprint breakpoint has been removed
+[2024.04.15-04.55.23:876][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-04.55.23:897][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.15-04.55.23:903][956]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004876 seconds
+[2024.04.15-04.55.23:910][956]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.04.15-04.55.23:910][956]LogSavePackage: Moving 'D:/Project/BluePrint/BluePrintStudy/Saved/DevMapF459F74D4580ACA34EBF1CB7D6B3247A.tmp' to 'D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap'
+[2024.04.15-04.55.23:915][956]LogFileHelpers: Saving map 'DevMap' took 0.040
+[2024.04.15-04.55.23:924][956]AssetCheck: New page: Asset Save: DevMap
+[2024.04.15-04.55.23:924][956]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2024.04.15-04.56.10:397][318]BlueprintLog: New page: Compile DevMap
+[2024.04.15-04.56.10:437][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.15-04.56.11:525][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-04.56.11:541][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.04.15-04.56.11:547][445]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.04.15-04.56.11:548][445]LogSavePackage: Moving 'D:/Project/BluePrint/BluePrintStudy/Saved/DevMap5289260143A46FC5766229848E8166FE.tmp' to 'D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap'
+[2024.04.15-04.56.11:553][445]LogFileHelpers: Saving map 'DevMap' took 0.028
+[2024.04.15-04.56.11:562][445]AssetCheck: New page: Asset Save: DevMap
+[2024.04.15-04.56.11:562][445]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2024.04.15-04.56.50:339][ 81]LogSlate: Took 0.005897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.15-04.58.01:241][559]BlueprintLog: New page: Compile DevMap
+[2024.04.15-04.58.01:269][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.15-04.58.02:223][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-04.58.02:238][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.15-04.58.02:244][669]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.04.15-04.58.02:245][669]LogSavePackage: Moving 'D:/Project/BluePrint/BluePrintStudy/Saved/DevMap7F3E46CC4B0803495D4B15B0A391D0BF.tmp' to 'D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap'
+[2024.04.15-04.58.02:249][669]LogFileHelpers: Saving map 'DevMap' took 0.027
+[2024.04.15-04.58.02:259][669]AssetCheck: New page: Asset Save: DevMap
+[2024.04.15-04.58.02:259][669]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2024.04.15-04.58.25:383][415]BlueprintLog: New page: Compile DevMap
+[2024.04.15-04.58.25:408][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.15-04.58.25:736][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-04.58.25:753][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.15-04.58.25:760][450]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.04.15-04.58.25:761][450]LogSavePackage: Moving 'D:/Project/BluePrint/BluePrintStudy/Saved/DevMap63F081DF49C99FD111FEB5918C38B6D0.tmp' to 'D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap'
+[2024.04.15-04.58.25:767][450]LogFileHelpers: Saving map 'DevMap' took 0.031
+[2024.04.15-04.58.25:776][450]AssetCheck: New page: Asset Save: DevMap
+[2024.04.15-04.58.25:776][450]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2024.04.15-04.59.35:254][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-04.59.35:270][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.04.15-04.59.35:277][133]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.04.15-04.59.35:278][133]LogSavePackage: Moving 'D:/Project/BluePrint/BluePrintStudy/Saved/DevMapA70D04B442EDEFF9D4F8C3BEDFEF67F0.tmp' to 'D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap'
+[2024.04.15-04.59.35:283][133]LogFileHelpers: Saving map 'DevMap' took 0.029
+[2024.04.15-04.59.35:291][133]AssetCheck: New page: Asset Save: DevMap
+[2024.04.15-04.59.35:291][133]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2024.04.15-04.59.36:392][263]BlueprintLog: New page: Compile DevMap
+[2024.04.15-04.59.36:417][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.15-04.59.36:928][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-04.59.36:946][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.15-04.59.36:954][317]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.04.15-04.59.36:955][317]LogSavePackage: Moving 'D:/Project/BluePrint/BluePrintStudy/Saved/DevMapF7B173114B1B26E999C07299D75BDB11.tmp' to 'D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap'
+[2024.04.15-04.59.36:960][317]LogFileHelpers: Saving map 'DevMap' took 0.031
+[2024.04.15-04.59.36:969][317]AssetCheck: New page: Asset Save: DevMap
+[2024.04.15-04.59.36:969][317]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2024.04.15-05.01.57:705][705]BlueprintLog: New page: Compile DevMap
+[2024.04.15-05.01.57:733][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.15-05.01.58:173][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-05.01.58:190][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.15-05.01.58:198][753]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.04.15-05.01.58:198][753]LogSavePackage: Moving 'D:/Project/BluePrint/BluePrintStudy/Saved/DevMap210D3E204314F4F119F6D89207E2A069.tmp' to 'D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap'
+[2024.04.15-05.01.58:204][753]LogFileHelpers: Saving map 'DevMap' took 0.030
+[2024.04.15-05.01.58:212][753]AssetCheck: New page: Asset Save: DevMap
+[2024.04.15-05.01.58:212][753]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2024.04.15-05.02.00:279][957]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-05.02.00:285][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-05.02.00:285][957]PIE: New page: PIE session: DevMap (Apr 15, 2024, 11:02:00 PM)
+[2024.04.15-05.02.00:288][957]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.15-05.02.00:288][957]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.04.15-05.02.00:289][957]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2024.04.15-05.02.00:290][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001653s)
+[2024.04.15-05.02.00:290][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.001844s)
+[2024.04.15-05.02.00:290][957]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.15-05.02.00:290][957]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-05.02.00:291][957]LogAIModule: Creating AISystem for world DevMap
+[2024.04.15-05.02.00:291][957]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2024.04.15-05.02.00:308][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.15-05.02.00:308][957]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.15-05.02.00:308][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-05.02.00:308][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-05.02.00:308][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-05.02.00:308][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-05.02.00:308][957]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.15-05.02.00:308][957]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.15-05.02.00:308][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.15-05.02.00:308][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-05.02.00:309][957]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-05.02.00:309][957]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-05.02.00:309][957]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-05.02.00:311][957]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-05.02.00:381][957]LogAudioMixer: Display: Using Audio Hardware Device 헤드폰 (2- 혁's HX)
+[2024.04.15-05.02.00:381][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-05.02.00:381][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-05.02.00:381][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-05.02.00:383][957]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.15-05.02.00:383][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.15-05.02.00:384][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.15-05.02.00:384][957]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.15-05.02.00:384][957]LogInit: FAudioDevice initialized.
+[2024.04.15-05.02.00:384][957]LogAudio: Display: Audio Device (ID: 2) registered with world 'DevMap'.
+[2024.04.15-05.02.00:403][957]LogLoad: Game class is 'GameModeBase'
+[2024.04.15-05.02.00:403][957]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2024.04.15-14.02.00
+[2024.04.15-05.02.00:403][957]LogWorld: Bringing up level for play took: 0.000426
+[2024.04.15-05.02.00:404][957]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2024.04.15-05.02.00:418][957]PIE: Server logged in
+[2024.04.15-05.02.00:419][957]PIE: Play in editor total start time 0.136 seconds.
+[2024.04.15-05.02.04:544][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-05.02.04:544][418]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DevMap
+[2024.04.15-05.02.04:544][418]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-05.02.04:544][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-05.02.04:555][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-05.02.04:558][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-05.02.04:581][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-05.02.04:581][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.15-05.02.04:584][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.15-05.02.04:598][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.15-05.02.04:643][419]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.04.15-05.02.05:279][495]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-05.02.05:532][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-05.02.05:533][495]PIE: New page: PIE session: DevMap (Apr 15, 2024, 11:02:05 PM)
+[2024.04.15-05.02.05:554][495]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2024.04.15-05.02.05:557][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003208s)
+[2024.04.15-05.02.05:557][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.003365s)
+[2024.04.15-05.02.05:557][495]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.15-05.02.05:557][495]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-05.02.05:557][495]LogAIModule: Creating AISystem for world DevMap
+[2024.04.15-05.02.05:558][495]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2024.04.15-05.02.05:581][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.15-05.02.05:583][495]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.15-05.02.05:583][495]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-05.02.05:583][495]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-05.02.05:583][495]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-05.02.05:583][495]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-05.02.05:583][495]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.15-05.02.05:583][495]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.15-05.02.05:583][495]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.15-05.02.05:583][495]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-05.02.05:583][495]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-05.02.05:583][495]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-05.02.05:583][495]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-05.02.05:585][495]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-05.02.05:654][495]LogAudioMixer: Display: Using Audio Hardware Device 헤드폰 (2- 혁's HX)
+[2024.04.15-05.02.05:654][495]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-05.02.05:654][495]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-05.02.05:654][495]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-05.02.05:654][495]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.15-05.02.05:654][495]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.15-05.02.05:655][495]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.15-05.02.05:655][495]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.15-05.02.05:655][495]LogInit: FAudioDevice initialized.
+[2024.04.15-05.02.05:655][495]LogAudio: Display: Audio Device (ID: 3) registered with world 'DevMap'.
+[2024.04.15-05.02.05:665][495]LogLoad: Game class is 'GameModeBase'
+[2024.04.15-05.02.05:665][495]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2024.04.15-14.02.05
+[2024.04.15-05.02.05:665][495]LogWorld: Bringing up level for play took: 0.000351
+[2024.04.15-05.02.05:666][495]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2024.04.15-05.02.05:667][495]PIE: Server logged in
+[2024.04.15-05.02.05:667][495]PIE: Play in editor total start time 0.135 seconds.
+[2024.04.15-05.02.08:774][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-05.02.08:774][855]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DevMap
+[2024.04.15-05.02.08:774][855]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-05.02.08:774][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-05.02.08:781][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-05.02.08:784][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-05.02.08:803][855]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-05.02.08:803][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.15-05.02.08:804][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.15-05.02.08:806][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-05.02.08:808][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.15-05.02.08:836][858]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.04.15-05.02.09:274][910]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-05.02.09:390][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-05.02.09:390][910]PIE: New page: PIE session: DevMap (Apr 15, 2024, 11:02:09 PM)
+[2024.04.15-05.02.09:390][910]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2024.04.15-05.02.09:391][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001331s)
+[2024.04.15-05.02.09:391][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.001375s)
+[2024.04.15-05.02.09:391][910]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.15-05.02.09:391][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-05.02.09:392][910]LogAIModule: Creating AISystem for world DevMap
+[2024.04.15-05.02.09:392][910]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2024.04.15-05.02.09:411][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.15-05.02.09:411][910]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.15-05.02.09:411][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-05.02.09:411][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-05.02.09:411][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-05.02.09:411][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-05.02.09:411][910]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.15-05.02.09:411][910]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.15-05.02.09:411][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.15-05.02.09:411][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-05.02.09:411][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-05.02.09:411][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-05.02.09:411][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-05.02.09:413][910]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-05.02.09:490][910]LogAudioMixer: Display: Using Audio Hardware Device 헤드폰 (2- 혁's HX)
+[2024.04.15-05.02.09:490][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-05.02.09:490][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-05.02.09:490][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-05.02.09:490][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.15-05.02.09:490][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.15-05.02.09:491][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.15-05.02.09:492][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.15-05.02.09:492][910]LogInit: FAudioDevice initialized.
+[2024.04.15-05.02.09:492][910]LogAudio: Display: Audio Device (ID: 4) registered with world 'DevMap'.
+[2024.04.15-05.02.09:499][910]LogLoad: Game class is 'GameModeBase'
+[2024.04.15-05.02.09:499][910]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2024.04.15-14.02.09
+[2024.04.15-05.02.09:499][910]LogWorld: Bringing up level for play took: 0.000374
+[2024.04.15-05.02.09:501][910]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.04.15-05.02.09:501][910]PIE: Server logged in
+[2024.04.15-05.02.09:502][910]PIE: Play in editor total start time 0.112 seconds.
+[2024.04.15-05.02.11:193][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-05.02.11:193][103]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DevMap
+[2024.04.15-05.02.11:193][103]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-05.02.11:193][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-05.02.11:205][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-05.02.11:207][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-05.02.11:226][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-05.02.11:226][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.15-05.02.11:228][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.15-05.02.11:232][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.15-05.02.11:267][107]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.04.15-05.02.11:968][191]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-05.02.11:973][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-05.02.11:973][191]PIE: New page: PIE session: DevMap (Apr 15, 2024, 11:02:11 PM)
+[2024.04.15-05.02.11:973][191]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2024.04.15-05.02.11:974][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001554s)
+[2024.04.15-05.02.11:974][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.001610s)
+[2024.04.15-05.02.11:974][191]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.15-05.02.11:974][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-05.02.11:974][191]LogAIModule: Creating AISystem for world DevMap
+[2024.04.15-05.02.11:975][191]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2024.04.15-05.02.11:995][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.15-05.02.11:995][191]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.15-05.02.11:995][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-05.02.11:995][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-05.02.11:995][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-05.02.11:995][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-05.02.11:995][191]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.15-05.02.11:995][191]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.15-05.02.11:995][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.15-05.02.11:995][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-05.02.11:996][191]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-05.02.11:996][191]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-05.02.11:996][191]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-05.02.11:998][191]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-05.02.12:068][191]LogAudioMixer: Display: Using Audio Hardware Device 헤드폰 (2- 혁's HX)
+[2024.04.15-05.02.12:068][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-05.02.12:068][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-05.02.12:068][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-05.02.12:068][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.15-05.02.12:069][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.15-05.02.12:070][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.15-05.02.12:070][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.15-05.02.12:070][191]LogInit: FAudioDevice initialized.
+[2024.04.15-05.02.12:070][191]LogAudio: Display: Audio Device (ID: 5) registered with world 'DevMap'.
+[2024.04.15-05.02.12:081][191]LogLoad: Game class is 'GameModeBase'
+[2024.04.15-05.02.12:081][191]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2024.04.15-14.02.12
+[2024.04.15-05.02.12:082][191]LogWorld: Bringing up level for play took: 0.000364
+[2024.04.15-05.02.12:083][191]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.04.15-05.02.12:083][191]PIE: Server logged in
+[2024.04.15-05.02.12:084][191]PIE: Play in editor total start time 0.111 seconds.
+[2024.04.15-05.02.13:984][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-05.02.13:984][409]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DevMap
+[2024.04.15-05.02.13:984][409]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-05.02.13:984][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-05.02.13:993][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-05.02.13:997][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-05.02.14:019][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-05.02.14:019][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.15-05.02.14:020][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.15-05.02.14:025][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.15-05.02.14:060][413]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.04.15-05.02.18:605][705]BlueprintLog: New page: Compile DevMap
+[2024.04.15-05.02.18:637][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.15-05.02.19:260][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-05.02.19:281][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.15-05.02.19:288][776]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.04.15-05.02.19:288][776]LogSavePackage: Moving 'D:/Project/BluePrint/BluePrintStudy/Saved/DevMapF11CC64E418F653169AA22A97FC52CB2.tmp' to 'D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap'
+[2024.04.15-05.02.19:293][776]LogFileHelpers: Saving map 'DevMap' took 0.033
+[2024.04.15-05.02.19:301][776]AssetCheck: New page: Asset Save: DevMap
+[2024.04.15-05.02.19:301][776]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2024.04.15-05.02.41:679][322]BlueprintLog: New page: Compile DevMap
+[2024.04.15-05.02.41:713][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.15-05.02.42:155][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-05.02.42:175][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.15-05.02.42:183][371]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.04.15-05.02.42:183][371]LogSavePackage: Moving 'D:/Project/BluePrint/BluePrintStudy/Saved/DevMap4E6F605948F431642364FAAF5B7B9ED9.tmp' to 'D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap'
+[2024.04.15-05.02.42:190][371]LogFileHelpers: Saving map 'DevMap' took 0.035
+[2024.04.15-05.02.42:200][371]AssetCheck: New page: Asset Save: DevMap
+[2024.04.15-05.02.42:200][371]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2024.04.15-05.02.46:810][839]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-05.02.46:814][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-05.02.46:814][839]PIE: New page: PIE session: DevMap (Apr 15, 2024, 11:02:46 PM)
+[2024.04.15-05.02.46:814][839]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2024.04.15-05.02.46:815][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001251s)
+[2024.04.15-05.02.46:815][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.001295s)
+[2024.04.15-05.02.46:815][839]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.15-05.02.46:815][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-05.02.46:816][839]LogAIModule: Creating AISystem for world DevMap
+[2024.04.15-05.02.46:816][839]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2024.04.15-05.02.46:837][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.15-05.02.46:837][839]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.15-05.02.46:837][839]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-05.02.46:837][839]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-05.02.46:837][839]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-05.02.46:837][839]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-05.02.46:837][839]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.15-05.02.46:837][839]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.15-05.02.46:837][839]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.15-05.02.46:837][839]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-05.02.46:838][839]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-05.02.46:838][839]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-05.02.46:838][839]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-05.02.46:840][839]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-05.02.46:908][839]LogAudioMixer: Display: Using Audio Hardware Device 헤드폰 (2- 혁's HX)
+[2024.04.15-05.02.46:908][839]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-05.02.46:908][839]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-05.02.46:908][839]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-05.02.46:909][839]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.15-05.02.46:909][839]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.15-05.02.46:910][839]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.15-05.02.46:910][839]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.15-05.02.46:910][839]LogInit: FAudioDevice initialized.
+[2024.04.15-05.02.46:910][839]LogAudio: Display: Audio Device (ID: 6) registered with world 'DevMap'.
+[2024.04.15-05.02.46:919][839]LogLoad: Game class is 'GameModeBase'
+[2024.04.15-05.02.46:919][839]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2024.04.15-14.02.46
+[2024.04.15-05.02.46:919][839]LogWorld: Bringing up level for play took: 0.000392
+[2024.04.15-05.02.46:920][839]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.04.15-05.02.46:933][839]LogBlueprintUserMessages: [DevMap_C_6] 100
+[2024.04.15-05.02.46:933][839]PIE: Server logged in
+[2024.04.15-05.02.46:934][839]PIE: Play in editor total start time 0.121 seconds.
+[2024.04.15-05.02.47:784][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-05.02.47:784][929]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DevMap
+[2024.04.15-05.02.47:784][929]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-05.02.47:784][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-05.02.47:794][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-05.02.47:797][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-05.02.47:822][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-05.02.47:822][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.15-05.02.47:824][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.15-05.02.47:827][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.15-05.02.47:877][931]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.04.15-05.03.06:058][292]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=스피커 (2- GM50U), InstanceID=1
+[2024.04.15-05.03.06:058][292]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=39456
+[2024.04.15-05.03.06:120][299]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3afecbf2-800b-4e50-9ea1-183df738536a}, Name=스피커 (2- GM50U)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=61.75
+[2024.04.15-05.03.06:120][299]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.15-05.03.06:126][300]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.15-05.49.20:744][145]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.213 and deleted 0 file(s) with total size 0 MiB.
+[2024.04.15-06.00.32:373][ 92]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=헤드폰 (2- 혁's HX), InstanceID=1
+[2024.04.15-06.00.32:373][ 92]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=39456
+[2024.04.15-06.00.32:702][ 92]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a39dcb7d-6dbf-46f6-a99a-15527cb50462}, Name=헤드폰 (2- 혁's HX)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=43.08
+[2024.04.15-06.00.32:702][ 92]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.15-06.00.32:712][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.15-06.03.39:279][966]BlueprintLog: New page: Compile DevMap
+[2024.04.15-06.03.39:313][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.15-06.03.39:881][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-06.03.39:902][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.15-06.03.39:910][ 26]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.04.15-06.03.39:910][ 26]LogSavePackage: Moving 'D:/Project/BluePrint/BluePrintStudy/Saved/DevMapB14B872E4A31A96E28AE0BA0B8A924D0.tmp' to 'D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap'
+[2024.04.15-06.03.39:916][ 26]LogFileHelpers: Saving map 'DevMap' took 0.035
+[2024.04.15-06.03.39:926][ 26]AssetCheck: New page: Asset Save: DevMap
+[2024.04.15-06.03.39:926][ 26]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2024.04.15-06.03.44:431][552]BlueprintLog: New page: Compile DevMap
+[2024.04.15-06.03.44:462][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.15-06.03.45:110][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-06.03.45:130][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.15-06.03.45:138][623]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.04.15-06.03.45:139][623]LogSavePackage: Moving 'D:/Project/BluePrint/BluePrintStudy/Saved/DevMap34ED501B4CBB21677672FB904D549169.tmp' to 'D:/Project/BluePrint/BluePrintStudy/Content/Maps/DevMap.umap'
+[2024.04.15-06.03.45:144][623]LogFileHelpers: Saving map 'DevMap' took 0.035
+[2024.04.15-06.03.45:155][623]AssetCheck: New page: Asset Save: DevMap
+[2024.04.15-06.03.45:155][623]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2024.04.15-06.03.46:817][776]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-06.03.46:821][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-06.03.46:821][776]PIE: New page: PIE session: DevMap (Apr 16, 2024, 12:03:46 AM)
+[2024.04.15-06.03.46:821][776]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2024.04.15-06.03.46:823][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001333s)
+[2024.04.15-06.03.46:823][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.001378s)
+[2024.04.15-06.03.46:823][776]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.15-06.03.46:823][776]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-06.03.46:823][776]LogAIModule: Creating AISystem for world DevMap
+[2024.04.15-06.03.46:823][776]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2024.04.15-06.03.46:844][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.15-06.03.46:845][776]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.15-06.03.46:845][776]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-06.03.46:845][776]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-06.03.46:845][776]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-06.03.46:845][776]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-06.03.46:845][776]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.15-06.03.46:845][776]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.15-06.03.46:845][776]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.15-06.03.46:845][776]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-06.03.46:845][776]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-06.03.46:845][776]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-06.03.46:845][776]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-06.03.46:847][776]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-06.03.46:918][776]LogAudioMixer: Display: Using Audio Hardware Device 헤드폰 (2- 혁's HX)
+[2024.04.15-06.03.46:918][776]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-06.03.46:918][776]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-06.03.46:918][776]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-06.03.46:919][776]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.15-06.03.46:919][776]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.04.15-06.03.46:920][776]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.15-06.03.46:920][776]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.15-06.03.46:920][776]LogInit: FAudioDevice initialized.
+[2024.04.15-06.03.46:920][776]LogAudio: Display: Audio Device (ID: 7) registered with world 'DevMap'.
+[2024.04.15-06.03.46:932][776]LogLoad: Game class is 'GameModeBase'
+[2024.04.15-06.03.46:933][776]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2024.04.15-15.03.46
+[2024.04.15-06.03.46:933][776]LogWorld: Bringing up level for play took: 0.000427
+[2024.04.15-06.03.46:934][776]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.04.15-06.03.46:935][776]LogBlueprintUserMessages: [DevMap_C_8] 200
+[2024.04.15-06.03.46:935][776]PIE: Server logged in
+[2024.04.15-06.03.46:935][776]PIE: Play in editor total start time 0.115 seconds.
+[2024.04.15-06.03.48:230][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-06.03.48:230][917]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DevMap
+[2024.04.15-06.03.48:230][917]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-06.03.48:230][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-06.03.48:243][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-06.03.48:246][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-06.03.48:268][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-06.03.48:268][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.15-06.03.48:270][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.15-06.03.48:273][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.15-06.03.48:300][918]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.04.15-06.49.20:992][505]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.188 and deleted 0 file(s) with total size 0 MiB.
